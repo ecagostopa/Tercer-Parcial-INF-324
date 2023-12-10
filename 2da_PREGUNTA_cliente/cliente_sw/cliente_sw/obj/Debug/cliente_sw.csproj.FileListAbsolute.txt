@@ -1,0 +1,10 @@
+C:\Users\carol\source\repos\cliente_sw\cliente_sw\bin\Debug\cliente_sw.exe.config
+C:\Users\carol\source\repos\cliente_sw\cliente_sw\bin\Debug\cliente_sw.exe
+C:\Users\carol\source\repos\cliente_sw\cliente_sw\bin\Debug\cliente_sw.pdb
+C:\Users\carol\source\repos\cliente_sw\cliente_sw\obj\Debug\cliente_sw.csproj.AssemblyReference.cache
+C:\Users\carol\source\repos\cliente_sw\cliente_sw\obj\Debug\cliente_sw.Form1.resources
+C:\Users\carol\source\repos\cliente_sw\cliente_sw\obj\Debug\cliente_sw.Properties.Resources.resources
+C:\Users\carol\source\repos\cliente_sw\cliente_sw\obj\Debug\cliente_sw.csproj.GenerateResource.cache
+C:\Users\carol\source\repos\cliente_sw\cliente_sw\obj\Debug\cliente_sw.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\cliente_sw\cliente_sw\obj\Debug\cliente_sw.exe
+C:\Users\carol\source\repos\cliente_sw\cliente_sw\obj\Debug\cliente_sw.pdb
